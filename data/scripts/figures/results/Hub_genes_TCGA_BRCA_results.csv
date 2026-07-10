@@ -1,0 +1,10 @@
+Gene,Tumor_Median,Normal_Median,P_value,Direction
+IMPDH1,10.5454,9.71505,0,Up in Tumor
+PER1,8.8905,11.3408,2.59E-52,Down in Tumor
+PDGFRA,10.0065,11.7689,1.63E-50,Down in Tumor
+MYC,10.7143,11.965,2.34E-28,Down in Tumor
+CDK6,8.7314,9.8625,5.94E-22,Down in Tumor
+HMGA2,2.5233,1.6178,4.88E-14,Up in Tumor
+SMARCC1,11.7951,11.5021,1.48E-10,Up in Tumor
+HMGB1,12.3925,12.47285,0.06445092,Down in Tumor
+HUWE1,12.808,12.925,0.43673581,Down in Tumor
