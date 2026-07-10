@@ -1,11 +1,11 @@
 # Identification-of-Prognostic-miRNA-mRNA-Regulatory-Networks-in-Breast-Cancer-Using-TCGA-BRCA-Data
 Identification of Prognostic miRNA-mRNA Regulatory Networks in Breast Cancer Using TCGA-BRCA Data
 
-Overview
+#Overview
 
 This project aimed to identify prognostic miRNA-mRNA regulatory networks in breast cancer using TCGA-BRCA transcriptomic data and experimentally validated miRNA-target interactions.
 
-Methods
+#Methods
 
 - TCGA-BRCA gene expression analysis
 - Differential expression analysis between tumor and normal tissues
@@ -13,7 +13,7 @@ Methods
 - Construction of miRNA-mRNA regulatory networks
 - Kaplan-Meier survival analysis
 
-Key Findings
+#Key Findings
 
 Four genes showed significant prognostic value in breast cancer:
 
@@ -22,14 +22,14 @@ Four genes showed significant prognostic value in breast cancer:
 - PDGFRA (HR = 0.65, P = 0.0002)
 - PER1 (HR = 0.48, P = 2.7e-11)
 
-Repository Structure
+#Repository Structure
 
 - data/: Input datasets
 - scripts/: R analysis scripts
 - figures/: Network and survival figures
 - results/: Differential expression results
 
-Author
+#Author
 
 Elnaz Yazdanpanah
 B.Sc. Biology, Payame Noor University
